@@ -1,2 +1,0 @@
-# tesla-car
-Begin app
